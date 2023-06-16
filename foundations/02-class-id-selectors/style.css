@@ -1,0 +1,20 @@
+.odd {
+    color: #000;
+    background-color: lightcoral;
+
+}
+
+.one {
+    font-size: 50px;
+}
+
+#two {
+    color: aqua;
+    background-color: bisque;
+    font-weight:bold;
+}
+
+#four {
+    color: blanchedalmond;
+    background-color: black;
+}
